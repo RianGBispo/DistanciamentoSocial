@@ -162,6 +162,9 @@ image_path = "logo.png"
 text = "Developed and Maintained by: Rian.Bispo"
 rodape = st.sidebar.image(image_path, caption=text)
 
+st.sidebar.markdown('''  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-bispo/)](https://www.linkedin.com/in/rian-bispo/)
+''')
 ###
 
 # Define se o vídeo deve ser exibido durante o processamento
